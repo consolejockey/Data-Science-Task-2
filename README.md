@@ -30,7 +30,7 @@ Please make sure to have the dataset in the same folder as the python file.
 
 ## Documentation
 [Streamlit Documentation](https://docs.streamlit.io/)  
-[NLTK](https://www.nltk.org/)
+[NLTK](https://www.nltk.org/)  
 [Datasketch](http://ekzhu.com/datasketch/index.html)
 
 ## License
